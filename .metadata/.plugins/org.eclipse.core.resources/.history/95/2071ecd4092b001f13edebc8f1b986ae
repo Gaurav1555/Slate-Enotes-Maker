@@ -1,0 +1,10 @@
+package com.Servlet;
+
+import java.sql.Connection;
+import javax.Servlet.annotation.WebServlet;
+
+@WebServlet("/")
+public class UserServlet {
+
+	
+}
